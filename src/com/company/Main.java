@@ -4,8 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("ik wil kanker veel geld");
+        System.out.println("geld");
         System.out.println("hah welloe");
-
+        System.out.println("Laten we stoppen man, ik spreekje morgen!");
     }
 }
